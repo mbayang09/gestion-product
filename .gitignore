@@ -36,3 +36,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# .dockerignore
+.git
+.gitignore
+README.md
+.mvn/
+target/
+*.log
+*.iml
+.idea/
+*.class
+.DS_Store
