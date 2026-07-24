@@ -39,11 +39,6 @@ public class AppConfig {
             ds.setPassword(dbPassword);
             return ds;
 
-
-
-
-
-
 //        BasicDataSource ds = new BasicDataSource();
 //        ds.setDriverClassName("org.postgresql.Driver");
 //        ds.setUrl("jdbc:postgresql://localhost:5432/groupe2_mvc");
